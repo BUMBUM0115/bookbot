@@ -20,7 +20,7 @@ def main():
     print("============ BOOKBOT ============")
     print("Analyzing book found at books/frankenstein.txt...") 
     print("----------- Word Count ----------")
-    print(f"Found {num_words} total words")  # Replace with your word count
+    print(f"Found {num_words} total words") 
 
     # Character count section
     print("--------- Character Count -------")
